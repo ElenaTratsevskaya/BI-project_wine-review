@@ -4,7 +4,6 @@ Wine overview with selection, location, winery, price and description
 </br>
 <div id="header" align="center">
   <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/06/Screenshot_2023-06-19_132606.png" title="tableau" width="223" height="100"/>&nbsp;
-<img src="https://maps-for-excel.com/wp-content/uploads/2017/03/power-bi-animated-800x250.gif" title="powerBI" width="145" height="40"/>&nbsp;
   <img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" title="figma" width="100" height="100"/>&nbsp;
 </div></br>
 
